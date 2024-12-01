@@ -22,3 +22,8 @@ This project implements a simple grading system where users can input their mark
 #### Screenshot:
 
 ![Screenshot 2024-08-29 081249](https://github.com/user-attachments/assets/f1bf387b-a1a9-420c-af2a-7e1f923fe25d)
+
+
+![Screenshot 2024-11-30 225229](https://github.com/user-attachments/assets/a5538e48-e1e6-41d9-9482-f744aed25ee1)
+
+
